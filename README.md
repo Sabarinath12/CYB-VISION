@@ -94,3 +94,5 @@ make && ./main
 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+This project is just made for fun, so plzz don’t take my shit too seriously ;)
