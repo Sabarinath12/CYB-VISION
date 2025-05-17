@@ -4,6 +4,9 @@ A high-performance, T-800-inspired HUD-based surveillance interface in C++
 
 ![git](https://github.com/user-attachments/assets/b1b36815-b11d-4410-99c2-a51fd1f2cb26)
 
+![when_taken](https://github.com/user-attachments/assets/5f236144-2baf-45fb-b3c4-18fc77eace31)
+
+
 
 ## Overview
 
