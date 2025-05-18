@@ -9,7 +9,7 @@ A high-performance, T-800-inspired HUD-based surveillance interface in C++
 
 ## Overview
 
-CYB-ViSION is a cutting-edge computer vision application that provides real-time face detection and surveillance capabilities with a cybernetic heads-up display (HUD) inspired by the T-800 terminator. This system combines high-performance image processing with an immersive visual interface that displays system metrics, kernel logs, and target information.
+CYB-ViSION is a computer vision application that provides real-time face detection and surveillance capabilities with a heads-up display (HUD) inspired by the T-800 terminator. This system combines high-performance image processing with an immersive visual interface that displays system metrics, kernel logs, and target information.
 
 ## Features
 
