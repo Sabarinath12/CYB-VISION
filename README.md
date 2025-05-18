@@ -75,14 +75,7 @@ make && ./main
 * Red Tint: Activates during analysis mode after image capture
 * Dynamic Logs: Shows context-appropriate messages based on detection status
 * Status Metrics: Displays system performance in real-time## Usage
-#### Upon launching, CYB-ViSION
 
-* Automatically initialize the camera and face detection systems
-* Display a real-time video feed with cybernetic HUD overlay
-* Monitor for human subjects in the camera's field of view
-* Capture images of detected faces and store them in the snapshot directory
-* Switch to "analysis mode" after capturing an image, with distinct visual indicators
-* Return to monitoring mode after a cooldown period
 
 
 
